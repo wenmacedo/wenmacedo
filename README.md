@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá+a+todos!+Sou+Wendel+Luiz+Macedo;Tenho+18+anos;Sou+do+Rio+de+Janeiro;Eu+estudo+e+trabalho+com+desenvolvimento;Bem+vindos!+:%29)](https://git.io/typing-svg)
 
-![Wendel GitHub stats](https://github-readme-stats.vercel.app/api?username=wenmacedo&theme=shadow_green&show_icons=true)
 
 ## Main Skills
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
